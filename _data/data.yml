@@ -95,43 +95,97 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Service Manager
+        time: January, 2021 - Present
+        company: Mulytic Energy (A subsidiary of Mulytic Labs GmbH)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          In my role as Service Manager, I have two hats to put on my head as 
+          a DevOps Engineer and Team Lead. I design and maintain CI/CD 
+          pipelines, automate infrastructure, and ensure the reliability and 
+          security of our systems. I lead multiple teams, guiding developers, 
+          QA, and operations staff to deliver high-quality software 
+          efficiently. My focus is on fostering collaboration, mentoring team
+          members, and aligning our work with business goals to ensure we meet 
+          project deadlines and deliverables. Managing resources and resolving 
+          conflicts is also a key part of my responsibilities, ensuring that 
+          our teams are productive and motivated.  
+            - Migrated on-prem applications to cloud, created hybrid cloud and deployed security measures for secure communication between the cloud and on-prem infrastructure.
+            - Build and maintain the data pipelines for data lake, ensuring the data security.
+            - Monitored automated build and continuous software integration process to drive build/release failure resolution.
+            - Authored code fixes and enhancements for inclusion in future code releases and patches.
+            - Coordinated deployments of new software, feature updates and fixes.
+            - Estimated work hours and tracked progress using Scrum methodology.
+            - Tested and deployed scalable and highly available software products.
+            - Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
+            - Communicated with the teams, customers and stakeholders for transparency.
+
+      - role: Full Stack Python Developer
+        time:  October, 2019 - December, 2020
+        company: Ruby IT Centre (A subsidiary of Mulytic Labs GmbH)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          In my role as a Software Engineer, I primarily focus on backend 
+          development, designing and building server-side logic, APIs, and 
+          databases to ensure our applications are robust, scalable, and 
+          secure. I work closely with front-end developers to integrate 
+          user-facing elements with server-side logic, and I’m responsible 
+          for optimizing performance and troubleshooting any backend issues 
+          that arise.  
+          Additionally, I contribute to DevOps tasks, such as setting up and 
+          managing CI/CD pipelines, automating deployments, and maintaining 
+          the infrastructure. This helps streamline the development process 
+          and ensures smooth, reliable deployments. My goal is to create 
+          efficient, high-performing backend systems while also supporting 
+          the overall development and deployment lifecycle.
+            - Created proofs of concept for innovative new solutions.
+            - Built databases and table structures for web applications.
+            - Analyzed work to generate logic for new systems, procedures and tests.
+            - Designed and developed forward-thinking systems that meet user needs and improve productivity.
+
+      - role: Software Engineer
+        time:  January, 2019 - September, 2019
+        company: Venture Solutions Ltd
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          In my role as a Software Engineer focusing on banking applications, 
+          I design, develop, and maintain secure and efficient software 
+          solutions tailored for the financial industry. I work on backend 
+          systems that handle critical banking functions, such as transaction 
+          processing, account management, and customer data security. My 
+          responsibilities include ensuring compliance with regulatory 
+          standards, optimizing performance, and integrating new technologies 
+          to enhance the reliability and scalability of the banking applications.
+            - Collaborate closely with stakeholders to understand their requirements.
+            - Develop applications that are secure, scalable, and aligned with industry standards.
+            - Deliver high-quality, fast, and user-friendly banking applications.
+
+      - role: Associate Software Engineer
+        time: January, 2018 - December, 2018
+        company: Venture Solutions Ltd
+        details: |
+          As an Associate Software Engineer focusing on banking applications, 
+          my role revolves around developing, maintaining, and enhancing 
+          software solutions tailored for the financial industry. I work on 
+          designing and implementing features that ensure the security, 
+          efficiency, and reliability of banking systems.
+            - Write and review code.
+            - Debug issues.
+            - Collaborate with other developers and stakeholders.
+
+      - role: Junior Software Engineer
+        time: November, 2016 - December, 2017
+        company: Inovio Technologies LLC
+        details: |
+          As a Junior Software Engineer focusing on developing applications 
+          for offshore clients, my role involves collaborating with 
+          international teams to create and deliver software solutions that 
+          meet our clients' needs. I work on various tasks such as coding, 
+          debugging, and testing applications to ensure they function 
+          seamlessly across different environments.
+            - Understand client requirements.
+            - Participate in design discussions.
+            - Implement features.
+            - Work closely with senior engineers and project managers.
+            - Coordinate with clients and team members across different time zones.
+            - Provide updates on progress.
 
 certifications:
       title: Certifications
@@ -239,11 +293,6 @@ publications:
       #   link: "#"
       #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
       #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      # - title: A syntax directed compiler for Algol 60
-      #   link: "#"
-      #   authors: Edgar T. Irons
-      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills
