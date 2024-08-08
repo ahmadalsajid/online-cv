@@ -54,13 +54,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Software Engineer with a demonstrated history of working in the 
-      information technology and services industry for over 8 years in multiple
-      roles which includes Team Lead, DevOps Engineer, and Full-stack Engineer . 
-      I have experience in building robust and scallable applications.
-      Also, I have managed a team of 25 people as the Service Manager. I can 
-      analyze customer requirements, design and develop softwares, and 
-      work under pressure to deliver the product on time.
+      With 8 years of experience as a Fullstack Developer, DevOps Engineer, and 
+      Team Lead, I have successfully developed and led the implementation of 
+      complex, scalable web applications. My expertise covers both front-end 
+      and back-end development, as well as managing cloud infrastructure and 
+      optimizing CI/CD pipelines. As a DevOps Engineer, I have streamlined 
+      development processes, automated deployments, and ensured robust 
+      monitoring and security practices. In my role as Team Lead, I have 
+      managed and mentored a team of 25 developers, driving project delivery, 
+      fostering collaboration, and aligning technical efforts with business 
+      objectives. My experience has equipped me to lead teams effectively and 
+      deliver high-quality software solutions that meet organizational goals.
 
 education:
     title: Education
@@ -191,10 +195,10 @@ projects:
 
 oss:
     title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Tempo
         link: "#"
@@ -210,10 +214,10 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
       - title: Design and Simulation of a Novel Classification Framework for Separating Sentiment from Assorted Game Related Tweets
         link: https://ieeexplore.ieee.org/document/7860339
