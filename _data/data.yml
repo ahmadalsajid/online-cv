@@ -246,26 +246,74 @@ publications:
       #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Django
         level: 98%
 
-      - name: Angular
+      - name: DRF
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: FastAPI
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Elasticsearch 
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: MongoDB
         level: 60%
+      
+      - name: PostgreSQL
+        level: 98%
+
+      - name: Mysql
+        level: 98%
+
+      - name: Git
+        level: 60% 
+
+      - name: AWS
+        level: 98%
+
+      - name:  Terraform
+        level: 98%
+
+      - name: Cloudformation
+        level: 95%
+
+      - name: Ansible
+        level: 85%
+
+      - name: GitHub Actions
+        level: 60%
+
+      - name: Gitlab CI/CD
+        level: 60%
+
+      - name: Docker
+        level: 98%
+             
+      - name: ECS
+        level: 98%
+
+      - name: JIRA
+        level: 98%
+
+      - name: Confluence
+        level: 95%
+
+      - name: Slack
+        level: 85%
+
+      - name: IoT
+        level: 60% 
+
+      - name: Bash
+        level: 60% 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
