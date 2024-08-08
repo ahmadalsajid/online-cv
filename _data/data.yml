@@ -169,29 +169,44 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A feow projects I have worked on. Rest are not mentioned due to 
+      NDA with the respected clients or employers.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Charge.AI
+        link: https://play.google.com/store/apps/details?id=com.chargeai
+        tagline: |
+          The first ever one stop Electric Vehicle charging solution in 
+          Bangladesh, driven by AI. Available on all platforms (Android, iOS, Web)
 
-      - title: DevStudio
+      - title: AKLY
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+          Akly is a Qatari based modern & easy to use tool that provides users 
+          with a wide range of healthy & nutritious foods when ordering their 
+          next meal or planning their diet.
 
-      - title: Tempo
+      - title: CPCPlus
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+          Banks need to submit some reports to Bangladesh Bank on Letter Of 
+          Credit (LC) that they process. CPCPlus makes it easy to maintain all 
+          the related data that are needed to generate reports but not on the 
+          Core Banking Software (CBS) and this software now does the 
+          calculations that were calculated manually. It also manages user 
+          access to the reports. Currently, this software is used by Central 
+          Processing Center (CPC) - Trade operations, Dhaka Bank Limited.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: AlemHealth
+        link: https://www.alemhealth.com/
+        tagline: |
+          An intuitive and cost-effective platform to experience seamless, 
+          AI-enabled radiology workflows. Efficiently store, share, view, and 
+          report medical imaging studies, while enhancing accessibility to 
+          patients and healthcare facilities globally.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
@@ -200,17 +215,13 @@ oss:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: python-lambda-mongocluster-s3
+        link: https://github.com/ahmadalsajid/python-lambda-mongocluster-s3
+        tagline: "Python script with mongodump binary to back up MongoDB Atlas database to AWS S3 bucket using AWS Lambda python function."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Atom
+      #   link: "#"
+      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 publications:
     title: Publications
