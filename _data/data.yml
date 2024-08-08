@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: ahmadalsajid@gmail.com
-    phone: +8801558959619
+    phone: '+8801558959619'
     timezone: # America/Cancun Timezone
     citizenship: # Bangladesh
     website: ahmadalsajid.medium.com #do not add http://
@@ -33,23 +33,23 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Bangla
-          level: Native
-
         - idiom: English
           level: Professional
 
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: Climbing
-    #       link:
+        - idiom: Bangla
+          level: Native
 
-    #     - item: Snowboarding
-    #       link:
+    interests:
+      title: Interests
+      info:
+        - item: Swimming
+          link:
 
-    #     - item: Cooking
-    #       link:
+        - item: Travelling
+          link:
+
+        - item: Cooking
+          link:
 
 career-profile:
     title: Career Profile
