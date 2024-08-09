@@ -322,6 +322,9 @@ skills:
       - name: Mysql
         level: 98%
 
+      - name: RabbitMQ
+        level: 60% 
+
       - name: Git
         level: 60% 
 
