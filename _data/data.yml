@@ -226,20 +226,20 @@ projects:
       A feow projects I have worked on. Rest are not mentioned due to 
       NDA with the respected clients or employers.
     assignments:
-      - title: Charge.AI
+      - title: <b>Charge.AI</b>
         link: https://play.google.com/store/apps/details?id=com.chargeai
         tagline: |
           The first ever one stop Electric Vehicle charging solution in 
           Bangladesh, driven by AI. Available on all platforms (Android, iOS, Web)
 
-      - title: AKLY
+      - title: <b>AKLY</b>
         link: "#"
         tagline: |
           Akly is a Qatari based modern & easy to use tool that provides users 
           with a wide range of healthy & nutritious foods when ordering their 
           next meal or planning their diet.
 
-      - title: CPCPlus
+      - title: <b>CPCPlus</b>
         link: "#"
         tagline: |
           Banks need to submit some reports to Bangladesh Bank on Letter Of 
@@ -250,7 +250,7 @@ projects:
           access to the reports. Currently, this software is used by Central 
           Processing Center (CPC) - Trade operations, Dhaka Bank Limited.
 
-      - title: AlemHealth
+      - title: <b>AlemHealth</b>
         link: https://www.alemhealth.com/
         tagline: |
           An intuitive and cost-effective platform to experience seamless, 
@@ -269,13 +269,18 @@ oss:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: python-lambda-mongocluster-s3
-        link: https://github.com/ahmadalsajid/python-lambda-mongocluster-s3
-        tagline: "Python script with mongodump binary to back up MongoDB Atlas database to AWS S3 bucket using AWS Lambda python function."
+      - title: <b>ahmadalsajid/hey</b>
+        link: https://github.com/ahmadalsajid/hey
+        tagline: |
+          Lightweight, minimal docker image of <a href="https://github.com/rakyll/hey">Hey</a> [a tiny program that sends 
+          some load to a web application], with latest version of Go and 
+          Alpine linux for both Linux/amd64 and Linux/arm64 architectures.
 
-      # - title: Atom
-      #   link: "#"
-      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: <b>python-lambda-mongocluster-s3</b>
+        link: https://github.com/ahmadalsajid/python-lambda-mongocluster-s3
+        tagline: |
+          Python script with mongodump binary to back up MongoDB Atlas database
+          to AWS S3 bucket using AWS Lambda python function.
 
 publications:
     title: Publications
@@ -365,7 +370,10 @@ skills:
         level: 60% 
 
       - name: Bash
-        level: 60% 
+        level: 60%
+
+      - name: EKS
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
