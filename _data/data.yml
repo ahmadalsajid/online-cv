@@ -269,8 +269,8 @@ oss:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: <b>ahmadalsajid/hey</b>
-        link: https://github.com/ahmadalsajid/hey
+      - title: <b>ahmadalsajid/hey-docker</b>
+        link: https://github.com/ahmadalsajid/hey-docker
         tagline: |
           Lightweight, minimal docker image of <a href="https://github.com/rakyll/hey">Hey</a> [a tiny program that sends 
           some load to a web application], with latest version of Go and 
