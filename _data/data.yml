@@ -3,377 +3,385 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
-    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Ahmad Al-Sajid
-    tagline: Full Stack Developer
-    avatar: sajid.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Ahmad Al-Sajid
+  tagline: Full Stack Developer
+  avatar: sajid.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: ahmadalsajid@gmail.com
-    phone: '+8801558959619'
-    timezone: # America/Cancun Timezone
-    citizenship: # Bangladesh
-    website: ahmadalsajid.medium.com #do not add http://
-    linkedin: ahmadalsajid
-    xing: # alandoe
-    github: ahmadalsajid
-    telegram: # add your nickname without '@' sign
-    gitlab: ahmadalsajid
-    bitbucket:
-    twitter: # '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: # http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: ahmadalsajid@gmail.com
+  phone: "+8801558959619"
+  timezone: # America/Cancun Timezone
+  citizenship: # Bangladesh
+  website: ahmadalsajid.medium.com #do not add http://
+  linkedin: ahmadalsajid
+  xing: # alandoe
+  github: ahmadalsajid
+  telegram: # add your nickname without '@' sign
+  gitlab: ahmadalsajid
+  bitbucket:
+  twitter: # '@webjeda'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: # http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional
 
-        - idiom: Bangla
-          level: Native
+      - idiom: Bangla
+        level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Swimming
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Swimming
+        link:
 
-        - item: Travelling
-          link:
+      - item: Travelling
+        link:
 
-        - item: Cooking
-          link:
+      - item: Cooking
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      With 8 years of experience as a Fullstack Developer, DevOps Engineer, and 
-      Team Lead, I have successfully developed and led the implementation of 
-      complex, scalable web applications. My expertise covers both front-end 
-      and back-end development, as well as managing cloud infrastructure and 
-      optimizing CI/CD pipelines. As a DevOps Engineer, I have streamlined 
-      development processes, automated deployments, and ensured robust 
-      monitoring and security practices. In my role as Team Lead, I have 
-      managed and mentored a team of 25 developers, driving project delivery, 
-      fostering collaboration, and aligning technical efforts with business 
-      objectives. My experience has equipped me to lead teams effectively and 
-      deliver high-quality software solutions that meet organizational goals.
+  title: Career Profile
+  summary: |
+    With 8 years of experience as a Fullstack Developer, DevOps Engineer, and 
+    Team Lead, I have successfully developed and led the implementation of 
+    complex, scalable web applications. My expertise covers both front-end 
+    and back-end development, as well as managing cloud infrastructure and 
+    optimizing CI/CD pipelines. As a DevOps Engineer, I have streamlined 
+    development processes, automated deployments, and ensured robust 
+    monitoring and security practices. In my role as Team Lead, I have 
+    managed and mentored a team of 25 developers, driving project delivery, 
+    fostering collaboration, and aligning technical efforts with business 
+    objectives. My experience has equipped me to lead teams effectively and 
+    deliver high-quality software solutions that meet organizational goals.
 
 education:
-    title: Education
-    info:
-      - degree: BSc in Computer Science & Engineering
-        university: University of Asia Pacific
-        time: 2012 - 2017
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      # - degree: BSc in Applied Mathematics
-      #   university: Bristol University
-      #   time: 2007 - 2011
-      #   details: |
-      #     Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #     sociis natoque penatibus et magnis dis parturient montes, nascetur
-      #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      #     pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
+  title: Education
+  info:
+    - degree: BSc in Computer Science & Engineering
+      university: University of Asia Pacific
+      time: 2012 - 2017
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    # - degree: BSc in Applied Mathematics
+    #   university: Bristol University
+    #   time: 2007 - 2011
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 
 experiences:
-    title: Experiences
-    info:
-      - role: Service Manager
-        time: January, 2021 - Present
-        company: Mulytic Energy (A subsidiary of Mulytic Labs GmbH)
-        details: |
-          In my role as Service Manager, I have two hats to put on my head as 
-          a DevOps Engineer and Team Lead. I design and maintain CI/CD 
-          pipelines, automate infrastructure, and ensure the reliability and 
-          security of our systems. I lead multiple teams, guiding developers, 
-          QA, and operations staff to deliver high-quality software 
-          efficiently. My focus is on fostering collaboration, mentoring team
-          members, and aligning our work with business goals to ensure we meet 
-          project deadlines and deliverables. Managing resources and resolving 
-          conflicts is also a key part of my responsibilities, ensuring that 
-          our teams are productive and motivated.  
-            - Migrated on-prem applications to cloud, created hybrid cloud and deployed security measures for secure communication between the cloud and on-prem infrastructure.
-            - Build and maintain the data pipelines for data lake, ensuring the data security.
-            - Monitored automated build and continuous software integration process to drive build/release failure resolution.
-            - Authored code fixes and enhancements for inclusion in future code releases and patches.
-            - Coordinated deployments of new software, feature updates and fixes.
-            - Estimated work hours and tracked progress using Scrum methodology.
-            - Tested and deployed scalable and highly available software products.
-            - Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
-            - Communicated with the teams, customers and stakeholders for transparency.
+  title: Experiences
+  info:
+    - role: Service Manager
+      time: January, 2021 - Present
+      company: Mulytic Energy (A subsidiary of Mulytic Labs GmbH)
+      details: |
+        In my role as Service Manager, I have two hats to put on my head as 
+        a DevOps Engineer and Team Lead. I design and maintain CI/CD 
+        pipelines, automate infrastructure, and ensure the reliability and 
+        security of our systems. I lead multiple teams, guiding developers, 
+        QA, and operations staff to deliver high-quality software 
+        efficiently. My focus is on fostering collaboration, mentoring team
+        members, and aligning our work with business goals to ensure we meet 
+        project deadlines and deliverables. Managing resources and resolving 
+        conflicts is also a key part of my responsibilities, ensuring that 
+        our teams are productive and motivated.  
+          - Migrated on-prem applications to cloud, created hybrid cloud and deployed security measures for secure communication between the cloud and on-prem infrastructure.
+          - Build and maintain the data pipelines for data lake, ensuring the data security.
+          - Monitored automated build and continuous software integration process to drive build/release failure resolution.
+          - Authored code fixes and enhancements for inclusion in future code releases and patches.
+          - Coordinated deployments of new software, feature updates and fixes.
+          - Estimated work hours and tracked progress using Scrum methodology.
+          - Tested and deployed scalable and highly available software products.
+          - Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
+          - Communicated with the teams, customers and stakeholders for transparency.
 
-      - role: Full Stack Python Developer
-        time:  October, 2019 - December, 2020
-        company: Ruby IT Centre (A subsidiary of Mulytic Labs GmbH)
-        details: |
-          In my role as a Software Engineer, I primarily focus on backend 
-          development, designing and building server-side logic, APIs, and 
-          databases to ensure our applications are robust, scalable, and 
-          secure. I work closely with front-end developers to integrate 
-          user-facing elements with server-side logic, and I’m responsible 
-          for optimizing performance and troubleshooting any backend issues 
-          that arise.  
-          Additionally, I contribute to DevOps tasks, such as setting up and 
-          managing CI/CD pipelines, automating deployments, and maintaining 
-          the infrastructure. This helps streamline the development process 
-          and ensures smooth, reliable deployments. My goal is to create 
-          efficient, high-performing backend systems while also supporting 
-          the overall development and deployment lifecycle.
-            - Created proofs of concept for innovative new solutions.
-            - Built databases and table structures for web applications.
-            - Analyzed work to generate logic for new systems, procedures and tests.
-            - Designed and developed forward-thinking systems that meet user needs and improve productivity.
+    - role: Full Stack Python Developer
+      time: October, 2019 - December, 2020
+      company: Ruby IT Centre (A subsidiary of Mulytic Labs GmbH)
+      details: |
+        In my role as a Software Engineer, I primarily focus on backend 
+        development, designing and building server-side logic, APIs, and 
+        databases to ensure our applications are robust, scalable, and 
+        secure. I work closely with front-end developers to integrate 
+        user-facing elements with server-side logic, and I’m responsible 
+        for optimizing performance and troubleshooting any backend issues 
+        that arise.  
+        Additionally, I contribute to DevOps tasks, such as setting up and 
+        managing CI/CD pipelines, automating deployments, and maintaining 
+        the infrastructure. This helps streamline the development process 
+        and ensures smooth, reliable deployments. My goal is to create 
+        efficient, high-performing backend systems while also supporting 
+        the overall development and deployment lifecycle.
+          - Created proofs of concept for innovative new solutions.
+          - Built databases and table structures for web applications.
+          - Analyzed work to generate logic for new systems, procedures and tests.
+          - Designed and developed forward-thinking systems that meet user needs and improve productivity.
 
-      - role: Software Engineer
-        time:  January, 2019 - September, 2019
-        company: Venture Solutions Ltd
-        details: |
-          In my role as a Software Engineer focusing on banking applications, 
-          I design, develop, and maintain secure and efficient software 
-          solutions tailored for the financial industry. I work on backend 
-          systems that handle critical banking functions, such as transaction 
-          processing, account management, and customer data security. My 
-          responsibilities include ensuring compliance with regulatory 
-          standards, optimizing performance, and integrating new technologies 
-          to enhance the reliability and scalability of the banking applications.
-            - Collaborate closely with stakeholders to understand their requirements.
-            - Develop applications that are secure, scalable, and aligned with industry standards.
-            - Deliver high-quality, fast, and user-friendly banking applications.
+    - role: Software Engineer
+      time: January, 2019 - September, 2019
+      company: Venture Solutions Ltd
+      details: |
+        In my role as a Software Engineer focusing on banking applications, 
+        I design, develop, and maintain secure and efficient software 
+        solutions tailored for the financial industry. I work on backend 
+        systems that handle critical banking functions, such as transaction 
+        processing, account management, and customer data security. My 
+        responsibilities include ensuring compliance with regulatory 
+        standards, optimizing performance, and integrating new technologies 
+        to enhance the reliability and scalability of the banking applications.
+          - Collaborate closely with stakeholders to understand their requirements.
+          - Develop applications that are secure, scalable, and aligned with industry standards.
+          - Deliver high-quality, fast, and user-friendly banking applications.
 
-      - role: Associate Software Engineer
-        time: January, 2018 - December, 2018
-        company: Venture Solutions Ltd
-        details: |
-          As an Associate Software Engineer focusing on banking applications, 
-          my role revolves around developing, maintaining, and enhancing 
-          software solutions tailored for the financial industry. I work on 
-          designing and implementing features that ensure the security, 
-          efficiency, and reliability of banking systems.
-            - Write and review code.
-            - Debug issues.
-            - Collaborate with other developers and stakeholders.
+    - role: Associate Software Engineer
+      time: January, 2018 - December, 2018
+      company: Venture Solutions Ltd
+      details: |
+        As an Associate Software Engineer focusing on banking applications, 
+        my role revolves around developing, maintaining, and enhancing 
+        software solutions tailored for the financial industry. I work on 
+        designing and implementing features that ensure the security, 
+        efficiency, and reliability of banking systems.
+          - Write and review code.
+          - Debug issues.
+          - Collaborate with other developers and stakeholders.
 
-      - role: Junior Software Engineer
-        time: November, 2016 - December, 2017
-        company: Inovio Technologies LLC
-        details: |
-          As a Junior Software Engineer focusing on developing applications 
-          for offshore clients, my role involves collaborating with 
-          international teams to create and deliver software solutions that 
-          meet our clients' needs. I work on various tasks such as coding, 
-          debugging, and testing applications to ensure they function 
-          seamlessly across different environments.
-            - Understand client requirements.
-            - Participate in design discussions.
-            - Implement features.
-            - Work closely with senior engineers and project managers.
-            - Coordinate with clients and team members across different time zones.
-            - Provide updates on progress.
+    - role: Junior Software Engineer
+      time: November, 2016 - December, 2017
+      company: Inovio Technologies LLC
+      details: |
+        As a Junior Software Engineer focusing on developing applications 
+        for offshore clients, my role involves collaborating with 
+        international teams to create and deliver software solutions that 
+        meet our clients' needs. I work on various tasks such as coding, 
+        debugging, and testing applications to ensure they function 
+        seamlessly across different environments.
+          - Understand client requirements.
+          - Participate in design discussions.
+          - Implement features.
+          - Work closely with senior engineers and project managers.
+          - Coordinate with clients and team members across different time zones.
+          - Provide updates on progress.
 
 certifications:
-      title: Certifications
-      list:
-        - name: Certified Scrum Product Owner®
-          start: 2021
-          end: 2025
-          organization: Scrum Alliance, Inc.
-          credentialid: 1434164
-          credentialurl: bcert.me/bc/html/show-badge.html?b=duyersfz
-          credentialname: Scrum Alliance
-          details: |
-            As a Certified Scrum Product Owner (CSPO), I can significantly 
-            contribute to  an organization by ensuring that the development 
-            team delivers maximum value through well-defined product goals and
-            priorities. I act as the voice of the customer, understanding their
-            needs and translating them into a clear and actionable product 
-            backlog. By effectively managing and prioritizing this backlog, I 
-            help the team focus on the most valuable features, optimizing  
-            resource use and ensuring timely delivery.
+  title: Certifications
+  list:
+    - name: Certified Scrum Product Owner®
+      start: 2021
+      end: 2025
+      organization: Scrum Alliance, Inc.
+      credentialid: 1434164
+      credentialurl: bcert.me/bc/html/show-badge.html?b=duyersfz
+      credentialname: Scrum Alliance
+      details: |
+        As a Certified Scrum Product Owner (CSPO), I can significantly 
+        contribute to  an organization by ensuring that the development 
+        team delivers maximum value through well-defined product goals and
+        priorities. I act as the voice of the customer, understanding their
+        needs and translating them into a clear and actionable product 
+        backlog. By effectively managing and prioritizing this backlog, I 
+        help the team focus on the most valuable features, optimizing  
+        resource use and ensuring timely delivery.
 
-        - name: Member
-          start: 2021
-          end: 
-          organization: The Institution of Engineers, Bangladesh (IEB)
-          credentialid: M/41572
-          credentialurl: # www.github.com
-          credentialname: # Github
-          details: |
-            The Institution of Engineers, Bangladesh (IEB) is the most 
-            prestigious National Professional Organization of the country. 
-            It is registered under the Societies Registration Act of the 
-            country. IEB includes all disciplines of engineering.
+    - name: Member
+      start: 2021
+      end:
+      organization: The Institution of Engineers, Bangladesh (IEB)
+      credentialid: M/41572
+      credentialurl: # www.github.com
+      credentialname: # Github
+      details: |
+        The Institution of Engineers, Bangladesh (IEB) is the most 
+        prestigious National Professional Organization of the country. 
+        It is registered under the Societies Registration Act of the 
+        country. IEB includes all disciplines of engineering.
 
 projects:
-    title: Projects
-    intro: >
-      A feow projects I have worked on. Rest are not mentioned due to 
-      NDA with the respected clients or employers.
-    assignments:
-      - title: <b>Charge.AI</b>
-        link: https://play.google.com/store/apps/details?id=com.chargeai
-        tagline: |
-          The first ever one stop Electric Vehicle charging solution in 
-          Bangladesh, driven by AI. Available on all platforms (Android, iOS, Web)
+  title: Projects
+  intro: >
+    A feow projects I have worked on. Rest are not mentioned due to 
+    NDA with the respected clients or employers.
+  assignments:
+    - title: <b>Charge.AI</b>
+      link: https://play.google.com/store/apps/details?id=com.chargeai
+      tagline: |
+        The first ever one stop Electric Vehicle charging solution in 
+        Bangladesh, driven by AI. Available on all platforms (Android, iOS, Web)
 
-      - title: <b>AKLY</b>
-        link: "#"
-        tagline: |
-          Akly is a Qatari based modern & easy to use tool that provides users 
-          with a wide range of healthy & nutritious foods when ordering their 
-          next meal or planning their diet.
+    - title: <b>AKLY</b>
+      link: "#"
+      tagline: |
+        Akly is a Qatari based modern & easy to use tool that provides users 
+        with a wide range of healthy & nutritious foods when ordering their 
+        next meal or planning their diet.
 
-      - title: <b>CPCPlus</b>
-        link: "#"
-        tagline: |
-          Banks need to submit some reports to Bangladesh Bank on Letter Of 
-          Credit (LC) that they process. CPCPlus makes it easy to maintain all 
-          the related data that are needed to generate reports but not on the 
-          Core Banking Software (CBS) and this software now does the 
-          calculations that were calculated manually. It also manages user 
-          access to the reports. Currently, this software is used by Central 
-          Processing Center (CPC) - Trade operations, Dhaka Bank Limited.
+    - title: <b>CPCPlus</b>
+      link: "#"
+      tagline: |
+        Banks need to submit some reports to Bangladesh Bank on Letter Of 
+        Credit (LC) that they process. CPCPlus makes it easy to maintain all 
+        the related data that are needed to generate reports but not on the 
+        Core Banking Software (CBS) and this software now does the 
+        calculations that were calculated manually. It also manages user 
+        access to the reports. Currently, this software is used by Central 
+        Processing Center (CPC) - Trade operations, Dhaka Bank Limited.
 
-      - title: <b>AlemHealth</b>
-        link: https://www.alemhealth.com/
-        tagline: |
-          An intuitive and cost-effective platform to experience seamless, 
-          AI-enabled radiology workflows. Efficiently store, share, view, and 
-          report medical imaging studies, while enhancing accessibility to 
-          patients and healthcare facilities globally.
+    - title: <b>AlemHealth</b>
+      link: https://www.alemhealth.com/
+      tagline: |
+        An intuitive and cost-effective platform to experience seamless, 
+        AI-enabled radiology workflows. Efficiently store, share, view, and 
+        report medical imaging studies, while enhancing accessibility to 
+        patients and healthcare facilities globally.
 
-      # - title: Delta
-      #   link: "#"
-      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    # - title: Delta
+    #   link: "#"
+    #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
-    # intro: >
-    #   You can list your open source software contributions in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: <b>ahmadalsajid/hey-docker</b>
-        link: https://github.com/ahmadalsajid/hey-docker
-        tagline: |
-          Lightweight, minimal docker image of <a href="https://github.com/rakyll/hey">Hey</a> [a tiny program that sends 
-          some load to a web application], with latest version of Go and 
-          Alpine linux for both Linux/amd64 and Linux/arm64 architectures.
+  title: OSS Contributions
+  # intro: >
+  #   You can list your open source software contributions in this
+  #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+    - title: <b>ahmadalsajid/hey-docker</b>
+      link: https://github.com/ahmadalsajid/hey-docker
+      tagline: |
+        Lightweight, minimal docker image of <a href="https://github.com/rakyll/hey">Hey</a> [a tiny program that sends 
+        some load to a web application], with latest version of Go and 
+        Alpine linux with tiny size of < 20 MB, for both Linux/amd64 and Linux/arm64 architectures.
 
-      - title: <b>python-lambda-mongocluster-s3</b>
-        link: https://github.com/ahmadalsajid/python-lambda-mongocluster-s3
-        tagline: |
-          Python script with mongodump binary to back up MongoDB Atlas database
-          to AWS S3 bucket using AWS Lambda python function.
+    - title: <b>ahmadalsajid/oha-docker</b>
+      link: https://github.com/ahmadalsajid/oha-docker
+      tagline: |
+        Lightweight, minimal docker image of <a href="https://github.com/hatoo/oha">Oha</a> [a tiny program that sends 
+        some load to a web application], which was inspired by <a href="https://github.com/rakyll/hey">Hey</a> and 
+        written in Rust. The image is based on tiny distroless Debian 12 with less than 40 MB of size,
+        for both Linux/amd64 and Linux/arm64 architectures.
+
+    - title: <b>python-lambda-mongocluster-s3</b>
+      link: https://github.com/ahmadalsajid/python-lambda-mongocluster-s3
+      tagline: |
+        Python script with mongodump binary to back up MongoDB Atlas database
+        to AWS S3 bucket using AWS Lambda python function.
 
 publications:
-    title: Publications
-    # intro: |
-    #   You can list your publications in this section. Lorem ipsum dolor sit
-    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #   bibendum fringilla a eu lectus.
-    papers:
-      - title: Design and Simulation of a Novel Classification Framework for Separating Sentiment from Assorted Game Related Tweets
-        link: https://ieeexplore.ieee.org/document/7860339
-        authors: Syeda Tasmiah Islam, Ahmad Al-Sajid, Molla Rashied Hussein
-        conference: International Workshop on Computational Intelligence, 2016 (IWCI 2016)
+  title: Publications
+  # intro: |
+  #   You can list your publications in this section. Lorem ipsum dolor sit
+  #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #   bibendum fringilla a eu lectus.
+  papers:
+    - title: Design and Simulation of a Novel Classification Framework for Separating Sentiment from Assorted Game Related Tweets
+      link: https://ieeexplore.ieee.org/document/7860339
+      authors: Syeda Tasmiah Islam, Ahmad Al-Sajid, Molla Rashied Hussein
+      conference: International Workshop on Computational Intelligence, 2016 (IWCI 2016)
 
-      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      #   link: "#"
-      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #   link: "#"
+    #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 skills:
-    title: Skills
+  title: Skills
 
-    toolset:
-      - name: Python
-        level: 98%
+  toolset:
+    - name: Python
+      level: 98%
 
-      - name: Django
-        level: 98%
+    - name: Django
+      level: 98%
 
-      - name: DRF
-        level: 98%
+    - name: DRF
+      level: 98%
 
-      - name: FastAPI
-        level: 95%
+    - name: FastAPI
+      level: 95%
 
-      - name: Elasticsearch 
-        level: 85%
+    - name: Elasticsearch
+      level: 85%
 
-      - name: MongoDB
-        level: 60%
-      
-      - name: PostgreSQL
-        level: 98%
+    - name: MongoDB
+      level: 60%
 
-      - name: Mysql
-        level: 98%
+    - name: PostgreSQL
+      level: 98%
 
-      - name: RabbitMQ
-        level: 60% 
+    - name: Mysql
+      level: 98%
 
-      - name: Git
-        level: 60% 
+    - name: RabbitMQ
+      level: 60%
 
-      - name: AWS
-        level: 98%
+    - name: Git
+      level: 60%
 
-      - name:  Terraform
-        level: 98%
+    - name: AWS
+      level: 98%
 
-      - name: Cloudformation
-        level: 95%
+    - name: Terraform
+      level: 98%
 
-      - name: Ansible
-        level: 85%
+    - name: Cloudformation
+      level: 95%
 
-      - name: GitHub Actions
-        level: 60%
+    - name: Ansible
+      level: 85%
 
-      - name: Gitlab CI/CD
-        level: 60%
+    - name: GitHub Actions
+      level: 60%
 
-      - name: Docker
-        level: 98%
-             
-      - name: ECS
-        level: 98%
+    - name: Gitlab CI/CD
+      level: 60%
 
-      - name: JIRA
-        level: 98%
+    - name: Docker
+      level: 98%
 
-      - name: Confluence
-        level: 95%
+    - name: ECS
+      level: 98%
 
-      - name: Slack
-        level: 85%
+    - name: JIRA
+      level: 98%
 
-      - name: IoT
-        level: 60% 
+    - name: Confluence
+      level: 95%
 
-      - name: Bash
-        level: 60%
+    - name: Slack
+      level: 85%
 
-      - name: EKS
-        level: 60%
+    - name: IoT
+      level: 60%
+
+    - name: Bash
+      level: 60%
+
+    - name: EKS
+      level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
