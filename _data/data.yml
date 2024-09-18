@@ -380,6 +380,9 @@ skills:
     - name: Bash
       level: 60%
 
+    - name: Kubernetes
+      level: 60%
+
     - name: EKS
       level: 60%
 
