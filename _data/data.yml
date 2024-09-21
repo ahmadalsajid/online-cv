@@ -104,7 +104,7 @@ experiences:
           - Write unit tests. 
           - Integrate IoT devices into the systems(i.e. Raspberry Pi, EV charging stations).
           - Build CI/CD pipelines and Terraform/AWS Cloudformation as IaC tools to manage the infrastructures.
-          - Dockerized the applications and orchestrated with AWS ECS/EKS. 
+          - Dockerize the applications and orchestrate with AWS ECS/EKS. 
           - Write automation scripts using Python and Bash.
           - Document technical manuals to be used by IT personnel in future projects.
           - Lead a team of 20+ people. 
