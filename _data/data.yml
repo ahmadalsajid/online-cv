@@ -115,7 +115,7 @@ experiences:
           - Document technical manuals to be used by IT personnel in future projects.
           - Manage a team of 18 people for **27/7 Operations** as the first responders. 
           - Work as the communication bridge between the teams, customers and stakeholders for transparency.
-          - Also working with VPC, EC2, ALB, Route 53, IAM, SSM, DynamoDB, Textract and more from AWS.
+          - Also working with VPC, EC2, Lambda, ALB, Route 53, IAM, SSM, DynamoDB, Textract and more from AWS.
 
     - role: Full Stack Python Developer
       time: October, 2019 - December, 2020
@@ -129,6 +129,7 @@ experiences:
           - Design and developed forward-thinking systems that meet user needs and improve productivity.
           - Estimate work hours and tracked progress using Agile/Scrum methodology.
           - Deliver products within the deadlines.
+          - work closely with Frontend developers and Mobile application (Android/iOS) developers.
           - Manage a team of 5 for the R&D department.
           - Contribute to the DevOps procedures.
 
