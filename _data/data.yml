@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Ahmad Al-Sajid
-  tagline: DevOps | Full Stack Developer
+  tagline: DevOps Engineer
   avatar: sajid.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -61,7 +61,7 @@ career-profile:
     optimizing CI/CD pipelines. As a DevOps Engineer, I have streamlined 
     development processes, automated deployments, and ensured robust 
     monitoring and security practices. In my role as Team Lead, I have 
-    managed and mentored a team of 25 developers, driving project delivery, 
+    managed and mentored a team of 20+ people, driving project delivery, 
     fostering collaboration, and aligning technical efforts with business 
     objectives. My experience has equipped me to lead teams effectively and 
     deliver high-quality software solutions that meet organizational goals.
@@ -99,73 +99,57 @@ experiences:
       time: January, 2021 - May, 2024
       company: Mulytic Energy (A subsidiary of Mulytic Labs GmbH)
       details: |
-        In my role as Service Manager, I have two hats to put on my head as 
-        a DevOps Engineer and Team Lead. I design and maintain CI/CD 
-        pipelines, automate infrastructure, and ensure the reliability and 
-        security of our systems. I lead multiple teams, guiding developers, 
-        QA, and operations staff to deliver high-quality software 
-        efficiently. My focus is on fostering collaboration, mentoring team
-        members, and aligning our work with business goals to ensure we meet 
-        project deadlines and deliverables. Managing resources and resolving 
-        conflicts is also a key part of my responsibilities, ensuring that 
-        our teams are productive and motivated.  
-          - Migrated on-prem applications to cloud, created hybrid cloud and deployed security measures for secure communication between the cloud and on-prem infrastructure.
-          - Build and maintain the data pipelines for data lake, ensuring the data security.
-          - Monitored automated build and continuous software integration process to drive build/release failure resolution.
-          - Authored code fixes and enhancements for inclusion in future code releases and patches.
-          - Coordinated deployments of new software, feature updates and fixes.
-          - Estimated work hours and tracked progress using Scrum methodology.
-          - Tested and deployed scalable and highly available software products.
-          - Documented software development methodologies in technical manuals to be used by IT personnel in future projects.
-          - Communicated with the teams, customers and stakeholders for transparency.
+        In my role as a Service Manager(**DevOps Engineer**), I worked with the clients from Germany, Poland, and the USA. My main responsibilities were to: 
+          - Migrate on-prem applications to **AWS cloud platform**, deploy security measures for secure communication between the cloud and on-prem infrastructure.
+          - Create Data-lake using Multi-AZ **AWS Elasticsearch/OpenSearch**, optimised and automated data storage/backups to reduce monthly cost from ~$40000 to ~$27000.
+          - Implement Fine Grained Access Control to the data-lake for minimum exposure and maximum data security. 
+          - Create CI/CD pipelines using **Github Actions & Gitlab CICD**, resulted in a reduction of deployment time by 60%.
+          - Automate Infrastructure management using **Terraform**, **AWS Cloudformation**, & **Ansible** as IaC tools.
+          - Orchestrate **docker** containers using **AWS ECS** & **AWS EKS**.
+          - Manage **AWS MQ for RabbitMQ** for Highly available message broker.
+          - Use Multi-AZ **AWS RDS** for PostgreSQL and Mysql databases, and orchestrated the data backup and retention policies to balance between cost and efficiency.
+          - Integrate **AWS CloudFront** as the CDN to the applications for fast delivery of the static contents.
+          - Manage **AWS S3** storage and different lifecycle policies to store data with optimal costs.
+          - Use **AWS Cloudwatch** and **AWS CloudTrail** for log management, **Prometheus**, **Grafana** for monitoring, and **Opsgenie**, **Slack** for alerting.
+          - Write automation scripts using **Python** and **Bash** scripts.
+          - Document technical manuals to be used by IT personnel in future projects.
+          - Manage a team of 18 people for **27/7 Operations** as the first responders. 
+          - Work as the communication bridge between the teams, customers and stakeholders for transparency.
+          - Also working with VPC, EC2, ALB, Route 53, IAM, SSM, DynamoDB, Textract and more from AWS.
 
     - role: Full Stack Python Developer
       time: October, 2019 - December, 2020
       company: Ruby IT Centre (A subsidiary of Mulytic Labs GmbH)
       details: |
-        In my role as a Software Engineer, I primarily focus on backend 
-        development, designing and building server-side logic, APIs, and 
-        databases to ensure our applications are robust, scalable, and 
-        secure. I work closely with front-end developers to integrate 
-        user-facing elements with server-side logic, and I’m responsible 
-        for optimizing performance and troubleshooting any backend issues 
-        that arise.  
-        Additionally, I contribute to DevOps tasks, such as setting up and 
-        managing CI/CD pipelines, automating deployments, and maintaining 
-        the infrastructure. This helps streamline the development process 
-        and ensures smooth, reliable deployments. My goal is to create 
-        efficient, high-performing backend systems while also supporting 
-        the overall development and deployment lifecycle.
-          - Created proofs of concept for innovative new solutions.
-          - Built databases and table structures for web applications.
-          - Analyzed work to generate logic for new systems, procedures and tests.
-          - Designed and developed forward-thinking systems that meet user needs and improve productivity.
+        In my role as a Software Engineer, I primarily participated to :
+          - Architect, design distributed applications and associated database schemas.
+          - Develop backend APIs with **Python (Django/DRF/FastAPI)**.
+          - Create proofs of concept for innovative, new solutions.
+          - Analyze work to generate logic for new systems, procedures and tests.
+          - Design and developed forward-thinking systems that meet user needs and improve productivity.
+          - Estimate work hours and tracked progress using Agile/Scrum methodology.
+          - Deliver products within the deadlines.
+          - Manage a team of 5 for the R&D department.
+          - Contribute to the DevOps procedures.
 
     - role: Software Engineer
       time: January, 2019 - September, 2019
       company: Venture Solutions Ltd
       details: |
-        In my role as a Software Engineer focusing on banking applications, 
-        I design, develop, and maintain secure and efficient software 
-        solutions tailored for the financial industry. I work on backend 
-        systems that handle critical banking functions, such as transaction 
-        processing, account management, and customer data security. My 
-        responsibilities include ensuring compliance with regulatory 
-        standards, optimizing performance, and integrating new technologies 
-        to enhance the reliability and scalability of the banking applications.
+        At Venture Solutions Ltd, we focused on delivering custom software to
+        the local banks aimed to provide additional functionalities to manage 
+        various reports to the central bank. My duties included: 
           - Collaborate closely with stakeholders to understand their requirements.
-          - Develop applications that are secure, scalable, and aligned with industry standards.
+          - Develop applications that are secure, scalable, and aligned with industry standards with Python/django, and MS SQLServer.
           - Deliver high-quality, fast, and user-friendly banking applications.
+          - Enhance the reliability and scalability of the applications.
+          - Integrate with the bank's Core Banking System to extract data and prepare reports according to the central banks guidelines. 
 
     - role: Associate Software Engineer
       time: January, 2018 - December, 2018
       company: Venture Solutions Ltd
       details: |
-        As an Associate Software Engineer focusing on banking applications, 
-        my role revolves around developing, maintaining, and enhancing 
-        software solutions tailored for the financial industry. I work on 
-        designing and implementing features that ensure the security, 
-        efficiency, and reliability of banking systems.
+        As an Associate Software Engineer, I did:
           - Write and review code.
           - Debug issues.
           - Collaborate with other developers and stakeholders.
@@ -174,15 +158,12 @@ experiences:
       time: November, 2016 - December, 2017
       company: Inovio Technologies LLC
       details: |
-        As a Junior Software Engineer focusing on developing applications 
-        for offshore clients, my role involves collaborating with 
-        international teams to create and deliver software solutions that 
-        meet our clients' needs. I work on various tasks such as coding, 
-        debugging, and testing applications to ensure they function 
-        seamlessly across different environments.
+        while at Inovio, we worked with offshore clients from Qatar, Australia, 
+        and Canada to deliver custom-tailored software using the cutting-edge
+        technologies. My contributions included:
           - Understand client requirements.
           - Participate in design discussions.
-          - Implement features.
+          - Implement features using **MERN** stack.
           - Work closely with senior engineers and project managers.
           - Coordinate with clients and team members across different time zones.
           - Provide updates on progress.
@@ -314,14 +295,8 @@ skills:
     - name: Python
       level: 98%
 
-    - name: Django
+    - name: Django/DRF
       level: 98%
-
-    - name: DRF
-      level: 98%
-
-    - name: FastAPI
-      level: 95%
 
     - name: Elasticsearch
       level: 85%
@@ -329,10 +304,7 @@ skills:
     - name: MongoDB
       level: 60%
 
-    - name: PostgreSQL
-      level: 98%
-
-    - name: Mysql
+    - name: RDBMS
       level: 98%
 
     - name: RabbitMQ
@@ -353,6 +325,9 @@ skills:
     - name: Ansible
       level: 85%
 
+    - name: Bash
+      level: 60%
+
     - name: GitHub Actions
       level: 60%
 
@@ -365,6 +340,12 @@ skills:
     - name: ECS
       level: 98%
 
+    - name: EKS
+      level: 60%
+
+    - name: Kubernetes
+      level: 60%
+
     - name: JIRA
       level: 98%
 
@@ -375,15 +356,6 @@ skills:
       level: 85%
 
     - name: IoT
-      level: 60%
-
-    - name: Bash
-      level: 60%
-
-    - name: Kubernetes
-      level: 60%
-
-    - name: EKS
       level: 60%
 
 footer: >
