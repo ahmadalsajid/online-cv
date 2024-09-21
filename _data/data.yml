@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Ahmad Al-Sajid
-  tagline: DevOps Engineer
+  tagline: Software Engineer
   avatar: sajid.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -99,23 +99,17 @@ experiences:
       time: January, 2021 - May, 2024
       company: Mulytic Energy (A subsidiary of Mulytic Labs GmbH)
       details: |
-        In my role as a Service Manager(**DevOps Engineer**), I worked with the clients from Germany, Poland, and the USA. My main responsibilities were to: 
-          - Migrate on-prem applications to **AWS cloud platform**, deploy security measures for secure communication between the cloud and on-prem infrastructure.
-          - Create Data-lake using Multi-AZ **AWS Elasticsearch/OpenSearch**, optimised and automated data storage/backups to reduce monthly cost from ~$40000 to ~$27000.
-          - Implement Fine Grained Access Control to the data-lake for minimum exposure and maximum data security. 
-          - Create CI/CD pipelines using **Github Actions & Gitlab CICD**, resulted in a reduction of deployment time by 60%.
-          - Automate Infrastructure management using **Terraform**, **AWS Cloudformation**, & **Ansible** as IaC tools.
-          - Orchestrate **docker** containers using **AWS ECS** & **AWS EKS**.
-          - Manage **AWS MQ for RabbitMQ** for Highly available message broker.
-          - Use Multi-AZ **AWS RDS** for PostgreSQL and Mysql databases, and orchestrated the data backup and retention policies to balance between cost and efficiency.
-          - Integrate **AWS CloudFront** as the CDN to the applications for fast delivery of the static contents.
-          - Manage **AWS S3** storage and different lifecycle policies to store data with optimal costs.
-          - Use **AWS Cloudwatch** and **AWS CloudTrail** for log management, **Prometheus**, **Grafana** for monitoring, and **Opsgenie**, **Slack** for alerting.
-          - Write automation scripts using **Python** and **Bash** scripts.
+        In my role as a Service Manager, I worked with the clients from Germany, Poland, and the USA. My main responsibilities were to: 
+          - Design & develop complex distributed application with Python (Django/DRF/FastAPI) and both SQL and NoSQL as databases.
+          - Write unit tests. 
+          - Integrate IoT devices into the systems(i.e. Raspberry Pi, EV charging stations).
+          - Build CI/CD pipelines and Terraform/AWS Cloudformation as IaC tools to manage the infrastructures.
+          - Dockerized the applications and orchestrated with AWS ECS/EKS. 
+          - Write automation scripts using Python and Bash.
           - Document technical manuals to be used by IT personnel in future projects.
-          - Manage a team of 18 people for **27/7 Operations** as the first responders. 
+          - Lead a team of 20+ people. 
           - Work as the communication bridge between the teams, customers and stakeholders for transparency.
-          - Also working with VPC, EC2, Lambda, ALB, Route 53, IAM, SSM, DynamoDB, Textract and more from AWS.
+          - Also working with VPC, EC2, Lambda, ALB, OpenSearch, RDS, S3, MQ, Route 53, IAM, SSM, DynamoDB, Textract and more from AWS.
 
     - role: Full Stack Python Developer
       time: October, 2019 - December, 2020
@@ -123,14 +117,13 @@ experiences:
       details: |
         In my role as a Software Engineer, I primarily participated to :
           - Architect, design distributed applications and associated database schemas.
-          - Develop backend APIs with **Python (Django/DRF/FastAPI)**.
+          - Develop backend APIs with Python (Django/DRF/FastAPI).
           - Create proofs of concept for innovative, new solutions.
           - Analyze work to generate logic for new systems, procedures and tests.
           - Design and developed forward-thinking systems that meet user needs and improve productivity.
           - Estimate work hours and tracked progress using Agile/Scrum methodology.
           - Deliver products within the deadlines.
           - work closely with Frontend developers and Mobile application (Android/iOS) developers.
-          - Manage a team of 5 for the R&D department.
           - Contribute to the DevOps procedures.
 
     - role: Software Engineer
@@ -164,7 +157,7 @@ experiences:
         technologies. My contributions included:
           - Understand client requirements.
           - Participate in design discussions.
-          - Implement features using **MERN** stack.
+          - Implement features using MERN stack.
           - Work closely with senior engineers and project managers.
           - Coordinate with clients and team members across different time zones.
           - Provide updates on progress.
@@ -296,7 +289,13 @@ skills:
     - name: Python
       level: 98%
 
-    - name: Django/DRF
+    - name: Django
+      level: 98%
+
+    - name: DRF
+      level: 98%
+
+    - name: FastAPI
       level: 98%
 
     - name: Elasticsearch
@@ -323,28 +322,19 @@ skills:
     - name: Cloudformation
       level: 95%
 
-    - name: Ansible
-      level: 85%
-
-    - name: Bash
-      level: 60%
-
-    - name: GitHub Actions
-      level: 60%
-
-    - name: Gitlab CI/CD
+    - name: CI/CD
       level: 60%
 
     - name: Docker
       level: 98%
 
-    - name: ECS
+    - name: ECS/EKS
       level: 98%
 
-    - name: EKS
+    - name: Kubernetes
       level: 60%
 
-    - name: Kubernetes
+    - name: Bash
       level: 60%
 
     - name: JIRA
